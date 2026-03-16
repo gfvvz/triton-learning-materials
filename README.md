@@ -47,6 +47,7 @@
 
 | Year | Items | Linkage |
 |-------|-------|--------|
+| 2025 | Slides from Google Drive | https://drive.google.com/drive/folders/1KB6tD3UM1J0_eUp-F-JSlGrargLBawIr |
 | 2023 | Slides from Google Drive | https://drive.google.com/drive/folders/1yDFc4ElNN_GGhWDdMlM4wcm5uFEFFVQk |
 | 2023 | Videos from Youtube | https://www.youtube.com/playlist?list=PLc_vA1r0qoiRZfUC3o4_yjj0FtWvodKAz |
 
